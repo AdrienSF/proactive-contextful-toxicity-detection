@@ -142,7 +142,7 @@ class LabeledChatReplayDataset(ChatReplayDataset):
                  cache=False):
         
         if dataset_name:
-            chat_df = pd.read_csv('/media/storage/adrien/toxicity-detection/'+dataset_name+'.csv', index_col=0).fillna(np.nan).replace([np.nan], [None]).reset_index()
+            chat_df = pd.read_csv('../data/dota2/labeled/'+dataset_name+'.csv', index_col=0).fillna(np.nan).replace([np.nan], [None]).reset_index()
         if label_shift_type:
             assert type(label_shift_n) == int and label_shift_n > 0
             if label_shift_type == 'all':
@@ -206,7 +206,7 @@ class UserMatchHistoryDataset(TorchDatasetGetItemWrapper):
         if isinstance(chat_df, pd.DataFrame) or chat_df!=None:
             self.chat_df = chat_df
         else:
-            self.chat_df = pd.read_csv('/media/storage/adrien/toxicity-detection/'+dataset_name+'.csv').dropna(subset=['message', 'match', 'player', 'user_id']).drop_duplicates(['match', 'message', 'time', 'player', 'user_id']).fillna(np.nan).replace([np.nan], [None]).reset_index()
+            self.chat_df = pd.read_csv('../data/dota2/unlabeled/'+dataset_name+'.csv').dropna(subset=['message', 'match', 'player', 'user_id']).drop_duplicates(['match', 'message', 'time', 'player', 'user_id']).fillna(np.nan).replace([np.nan], [None]).reset_index()
         if user_ids != 'all':
             assert type(user_ids) != str
             user_ids = set(user_ids)
