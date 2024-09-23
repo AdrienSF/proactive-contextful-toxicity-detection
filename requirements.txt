@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+torch
+scikit-learn
+jsonlines
+scipy
+transformers
+ipykernel
