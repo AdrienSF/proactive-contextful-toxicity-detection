@@ -7,3 +7,6 @@ jsonlines
 scipy
 transformers
 ipykernel
+seaborn
+wordcloud
+nltk

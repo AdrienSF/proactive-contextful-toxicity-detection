@@ -1,0 +1,46 @@
+{
+  "Xbox": {
+    "excerpt": "Xbox Community Standards make it clear that bullying, hatred and harassment have no place in the Xbox community. Users are expected to treat others with respect, and threatening, abusive or insulting language undermines other players’ enjoyment of the service. Examples of prohibited behaviour include encouraging another player to commit self-harm, stalking, creating multiple accounts to harass, threatening physical assault, or making fun of another player’s identity or personal traits. A little competitive trash talk is permitted, but hate and harassment are not tolerated. Consequences include reporting, muting/blocking and enforcement actions under the Community Standards and Microsoft Services Agreement.",
+    "source": "https://www.xbox.com/en-GB/legal/community-standards"
+  },
+  "PlayStation Network (PSN)": {
+    "excerpt": "The PlayStation Network Code of Conduct and specific Hate Speech Policy prohibit any form of hate speech, hateful conduct, bullying, harassment or discriminatory behaviour on the platform. There are no exceptions even if the context is joking or among friends. Hate speech includes prejudice, hostility, or violence targeting protected characteristics such as race, gender identity, sexual orientation, religion, or disability. Players who breach the Code of Conduct may receive account suspension, including potentially a permanent ban, depending on severity and repeat violations.",
+    "source": "https://www.playstation.com/en-us/support/account/playstation-hate-speech-policy/"
+  },
+  "VALORANT (Riot Games)": {
+    "excerpt": "Riot defines \"comms toxicity\" as unwanted behaviour over in-game voice and text chats, including insults, threats, harassment or offensive language. Riot relies on player reporting and internal assessments to determine punishable conduct. Repeat offenders receive escalating penalties from warnings to comms restrictions, game bans, and in severe cases, permanent bans. Riot’s systems track a player’s behaviour history and automatically administer punishments for repeat offences; “zero tolerance” offences receive harsher penalties immediately.",
+    "source": "https://playvalorant.com/en-gb/news/dev/valorant-systems-health-series-voice-and-chat-toxicity/"
+  },
+  "Steam (Valve)": {
+    "excerpt": "Steam’s Online Conduct rules expect users to be good online citizens and not engage in behaviour that prevents other users from enjoying Steam. Harassing other users or Steam personnel — including trolling, baiting, threatening, spamming, intimidating or using abusive language — is explicitly prohibited. These rules apply to all parts of the Steam ecosystem (forums, hubs, comments). Content or behaviour that violates these conduct rules may lead to content removal, restrictions, or account sanctions in accordance with the Steam Subscriber Agreement.",
+    "source": "https://store.steampowered.com/online_conduct/"
+  },
+  "YouTube": {
+    "excerpt": "YouTube’s Community Guidelines prohibit \"violent or dangerous content, hate speech, predatory behaviour\" including \"harmful or dangerous content policies\" and “harassment & cyberbullying policies.” These rules apply to all content including unlisted, private content, comments, links, posts, and thumbnails. Violations can lead to suspending a creator’s privileges or account termination based on egregious behaviour or patterns of harmful behaviour.",
+    "source": "https://support.google.com/youtube/answer/9288567?hl=en"
+  },
+  "Twitch": {
+    "excerpt": "Twitch Community Guidelines make clear that there is “no place on Twitch for racism, hatred, or harassment of any kind” and prohibit hate and harassment in the community. Content that breaks these rules will lead to enforcement action and is foundational to ensuring the platform remains safe for the community.",
+    "source": "https://blog.twitch.tv/en/2024/11/01/hate-and-harassment-have-no-place-on-twitch/"
+  },
+  "Discord": {
+    "excerpt": "Discord Community Guidelines prohibit engaging in harassment of any type, including sexual harassment, server raiding with intent to harass, and violent acts. Violations may lead to warnings, content removal, temporary suspension, permanent removal of accounts/servers, or law enforcement reporting as appropriate.",
+    "source": "https://discord.com/guidelines/"
+  },
+  "Snapchat": {
+    "excerpt": "Snap’s Community Guidelines prohibit bullying or harassment of any kind, including verbal abuse, threats, or attempts to shame or humiliate. They also ban sharing another person’s private information or content without consent. Severe harm behaviours will result in account disablement; lesser violations accrue strikes and can lead to disabled accounts if repeated.",
+    "source": "https://values.snap.com/policy/policy-community-guidelines"
+  },
+  "TikTok": {
+    "excerpt": "TikTok’s Community Guidelines outline what is not allowed on the platform to help ensure it remains a safe and welcoming global community. While specific toxicity language (e.g., “toxic”) is not shown directly in the top-level guidelines excerpt, harassment, hate, threats, and harmful content fall under what is prohibited and are subject to removal and enforcement under these rules.",
+    "source": "https://support.tiktok.com/en/safety-hc/account-and-user-safety/community-guidelines"
+  },
+  "Reddit": {
+    "excerpt": "Reddit enforces strict rules against doxxing (publishing non-public personal information) and other harassment tools; violating these rules can result in site-wide bans and content removal. The broader decentralised community guidelines cover harassment and abusive behaviour as part of subreddit moderation.",
+    "source": "https://en.wikipedia.org/wiki/Reddit"
+  },
+  "X (formerly Twitter)": {
+    "excerpt": "X’s Abusive Behaviour policy prohibits various forms of targeted harassment and disallowed content, including rules against misgendering and deadnaming when done to degrade users and other forms of abusive conduct. Content that violates policy may be made less visible or required to be removed, and accounts may be suspended.",
+    "source": "https://help.x.com/en/rules-and-policies/abusive-behavior"
+  }
+}
